@@ -1,17 +1,4 @@
 # Email #
 
-***Subject: Welcome to a new world!***
-
-Hey User! Congratulations on signing up to the newest Xbox One Social Network!
-
-I hope you've managed to try out some of our great features. 
-
-If not, check out the features below!
-
-***Leaderboard graphic***
-
-***User created content graphic***
-
-I hope you enjoy your time in this exciting new world!
-
+![](http://i.gyazo.com/e05fed29e78378e0556c1a4df01a3cdc.png)
 
