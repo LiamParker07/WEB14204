@@ -8,10 +8,8 @@ According to the article, there are a number of disadvantages to presenting Phot
 
 - They allow designers to present an artist impression of the perfect product to clients.
 - Useful for selling a website to the client.
-- hjhhjhjjhjhj
 
 ### What alternatives does the author propose to the Photoshop-driven design process?
 
 The author proposes a couple of alternatives to the Photoshop-driven design process. Firstly, the author states that designers should learn to code which would enable designers to create mockups that would look a lot more comparable to the real site than a PSD would. Collaboration is also suggested so that front end developers and designers could work together much more, moving closer to the browser and creating prototypes together.
 
-### How do you feel about the Photoshop-driven design process?
