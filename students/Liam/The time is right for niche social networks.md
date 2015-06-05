@@ -1,0 +1,7 @@
+#The time is right for niche social networks#
+
+The time is ripe for a new wave of niche social networks is a great article and I agree with a lot of what is talked about. I completely agree that Facebook, arguably the largest social network, is not a social network for niches. It's a platform for sharing general crap between friends - not banter about the football or that achievement you got on your favourite game that took you hours of tireless attempts to get yet no one else cares about or seems to understand. For every hobby there's the potential for a niche social network.
+
+Fishing is mentioned in the article as one of these hobbies. Globally over 200 million people fish, 40 million of those in the US. How many of these would likely use a fishing social network to share images and videos of their latest catch or show of their new gear? Probably millions. Why post any of this content to a social network like facebook when you could post it to a niche social network in which everyone has a common interest and will just understand.
+
+Overall I believe niche social networks have a lot of potential. Yeah Facebook and Twitter have millions upon millions of users sharing pictures of food and complaining about their lives but why would anyone want to post anything about a hobby for example if a niche social network existed where people can receive valuable feedback and get the credit they deserve for achievements that may seem meaningless to the average facebook friend.
