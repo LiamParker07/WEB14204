@@ -1,0 +1,7 @@
+#The Internet's Own Boy#
+
+The Internet's Own Boy about Aaron Swartz and his campaign for social justice along with freedom of information was a fascinating watch. Although I completely understand that the US Government felt threatened by him and his knowledge, why couldn't they have used his knowledge to help others? Although Aaron knew what he was doing by stealing thousands of documents he was doing it for the good of others. He stole those documents to share with everyone around the world for free, documents that in my opinion should have already been available for free.
+
+In terms of digital theft, I believe stealing documents like this does constitute digital theft but is digital theft always a bad thing? In this case if it's to make documents available to people that could use them to help others but simply can't afford them then surely that's a good thing? For example, there are many scientists in India who are amazingly clever but simply can't afford these documents. What if these documents were widely available and one of these Indian scientists could use them to find a cure for cancer?
+
+Overall I do agree with what Aaron Swartz was campaigning for and I believe his talent was wasted. The US government were threatened by Swartz and rather than coming down on him with a outdated laws they should have utilised his talents to help others.
