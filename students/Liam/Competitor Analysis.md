@@ -8,26 +8,26 @@
 [www.xblgamerhub.com](http://www.xblgamerhub.com/)
 
 # Social Network 3 #
-[www.gamurs.net](https://gamurs.net/)
+[www.youtube.com](https://youtube.com/)
 
 ### Audience(s)
-All three of these networks are targeted at Gamers. While 'Gamurs' and 'Raptr' have targeted all types of gamers, 'xblgamerhub' is only targeting Xbox console gamers.
+Raptr can be used by all gamers but the main target audience is PC gamers. Xblgamerhub is only targeting Xbox console gamers. YouTube's audience is pretty much everyone from content creators to viewers in which many gaming videos are uploaded.
 
 ### Relationship(s)
 
-The main idea behind all three of these websites is to allow users to find fellow gamers who share the same interest in games etc. Users can form quite personal relationships as they can chat, share reviews and possibly use either of these three websites to find game sessions and play with people they meet.
+Xblgamerhub and Raptr is to allows users to find fellow gamers who share the same interest in games etc. Rapt does this a lot better than Xblgamerhub who doesn't do it quite as well. Users can form quite personal relationships as they can chat, share reviews and possibly use either of these  to find game sessions and play with people they meet. YouTube however is slightly different. Users generally have a relationship with a person making the videos and in the comments section of these videos.
 
 #### Reciprocity
 
-For all three of these websites, users have to reciprocate the relationships they establish, a lot like Facebook. This means that if a user adds another, the other user has to accept a friend request in order for both users to become friends and chat.
+Within Raptr and Xblgamerhub, users have to reciprocate the relationships they establish, a lot like Facebook. This means that if a user adds another, the other user has to accept a friend request in order for both users to become friends and chat. YouTube again is different in which users can subscribe to channels.
 
 #### Homophily
 
-Users are connected by age, video game interests and console. Gamurs also recommends you other players who you can connect with instantly through a 'secret' algorithm.
+Users are connected by age, video game interests and console. 
 
 ### Content(s)
 
-Content: Games reviews, Game ratings, Status updates, Game progress, Videos
+Content: Games reviews, Game ratings, Status updates, Game progress, Videos, Recording while playing, Blog
 
 
 Comments: Game reviews, Status updates, 'What game you're currently playing', Spam, Trolls
@@ -50,13 +50,11 @@ Not all connections would likely be real friends.
 
 ### Onboarding
 
-
-![](http://i.gyazo.com/f939dbf4c9b4b154d423b959dae14db5.png)
-
 ![](http://i.gyazo.com/9679cf5b8f7bc4ab09c1830a3f68cf78.png)
 
-### Blank slate
+Xblgamerhub has recently been redesigned as seen below.
 
-![](http://i.gyazo.com/c5f8d5e5c600684c9abbfe081adea7c0.png)
+![](http://i.gyazo.com/4625dee222a05a0b1dfff97349fc82a6.png)
 
-![](http://i.gyazo.com/379e12df7d2e7d9ba09f0dbbd909d0cd.png)
+
+
